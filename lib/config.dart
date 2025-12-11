@@ -1,0 +1,2 @@
+// lib/config.dart
+const String openAiApiKey = "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";
